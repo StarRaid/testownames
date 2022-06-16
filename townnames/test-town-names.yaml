@@ -1,0 +1,29 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Hayle
+    probability: 1
+  - name: Llan
+    probability: 1
+  - name: Aber
+    probability: 1
+- names:
+  - name: don
+    probability: 1
+  - name: ard
+    probability: 2
+  - name: '-yr'
+    probability: 2
+- names:
+  - name: by
+    probability: 1
+  - name: ffan
+    probability: 1
+  - name: enny
+    probability: 1
+  - name: ''
+    probability: 3
+name: Test town names
+source: null
+subsets: []
