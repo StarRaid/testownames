@@ -8,13 +8,59 @@ mainset:
     probability: 1
   - name: Aber
     probability: 1
+  - name: Ha
+    probability: 1
+  - name: Ayr
+    probability: 1
+  - name: Uaine
+    probability: 1
+  - name: Dearg
+    probability: 1
+  - name: De
+    probability: 1
+  - name: God
+    probability: 1
+  - name: Rach
+    probability: 1
+  - name: Gean
+    probability: 1
+  - name: Ing
+    probability: 1
+  - name: Inge
+    probability: 1
+  - name: Aar
+    probability: 1
+  - name: Rin
+    probability: 1
+  - name: Gwyn
+    probability: 1
+  - name: Tayp
+    probability: 1
 - names:
   - name: don
     probability: 1
   - name: ard
     probability: 2
-  - name: '-yr'
+  - name: '-Yr'
     probability: 2
+  - name: '-Y'
+    probability: 2
+  - name: ol
+    probability: 1
+  - name: ''
+    probability: 2
+  - name: aibh
+    probability: 1
+  - name: saidh
+    probability: 1
+  - name: 'on'
+    probability: 1
+  - name: fara
+    probability: 1
+  - name: edd
+    probability: 1
+  - name: es
+    probability: 1
 - names:
   - name: by
     probability: 1
@@ -22,8 +68,21 @@ mainset:
     probability: 1
   - name: enny
     probability: 1
-  - name: ''
+  - name: '-Ddon'
     probability: 3
+  - name: phin
+    probability: 1
+  - name: ''
+    probability: 2
+  - name: sby
+    probability: 1
+  - name: tru
+    probability: 1
+- names:
+  - name: da
+    probability: 1
+  - name: ''
+    probability: 5
 name: Test town names
 source: null
 subsets: []
