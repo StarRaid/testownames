@@ -52,25 +52,13 @@ mainset:
     probability: 1
   - name: Afon
     probability: 1
-  - name: Ynys-Yr
+  - name: Ynys
     probability: 1
   - name: Cran
     probability: 1
   - name: Ynys
     probability: 1
-  - name: Cran-Yr
-    probability: 1
-  - name: Eil-Yr
-    probability: 1
-  - name: Aar-Yr
-    probability: 1
   - name: Urn
-    probability: 1
-  - name: Rach-Yr
-    probability: 1
-  - name: Llan-Yr
-    probability: 1
-  - name: Gwyn-Yr
     probability: 1
   - name: Mordd
     probability: 1
@@ -82,14 +70,6 @@ mainset:
     probability: 1
   - name: Alt
     probability: 1
-  - name: Sodra-
-    probability: 1
-  - name: Norra-
-    probability: 1
-  - name: Ostra-
-    probability: 1
-  - name: Vaster-
-    probability: 1
   - name: Stad
     probability: 1
   - name: Liten
@@ -97,10 +77,6 @@ mainset:
   - name: Treff
     probability: 1
   - name: Baile
-    probability: 1
-  - name: Treff-Yr
-    probability: 1
-  - name: Stad-Yr
     probability: 1
   - name: Gaeaf
     probability: 1
@@ -110,7 +86,17 @@ mainset:
     probability: 1
   - name: Gwan
     probability: 1
-  - name: Maja
+  - name: Ma
+    probability: 1
+  - name: Grinn
+    probability: 1
+  - name: Grim
+    probability: 1
+  - name: Hurn
+    probability: 1
+  - name: Tiver
+    probability: 1
+  - name: Tor
     probability: 1
 - names:
   - name: don
@@ -149,8 +135,10 @@ mainset:
     probability: 1
   - name: ref
     probability: 1
-  - name: '-Beag-'
+  - name: ja
     probability: 1
+  - name: '@hyphens'
+    probability: 20
 - names:
   - name: by
     probability: 4
@@ -203,4 +191,69 @@ mainset:
     probability: 1
 name: Test town names
 source: null
-subsets: []
+subsets:
+- name: capitals
+  parts:
+  - names:
+    - name: Hayle
+      probability: 1
+    - name: Aber
+      probability: 1
+    - name: Ha
+      probability: 1
+    - name: Ayr
+      probability: 4
+    - name: Uaine
+      probability: 1
+    - name: Dearg
+      probability: 1
+    - name: De
+      probability: 1
+    - name: God
+      probability: 1
+    - name: Rach
+      probability: 1
+    - name: Gean
+      probability: 1
+    - name: Ing
+      probability: 1
+    - name: Inge
+      probability: 1
+    - name: Gwyn
+      probability: 1
+    - name: Eil
+      probability: 1
+    - name: Hjor
+      probability: 1
+    - name: Dal
+      probability: 1
+    - name: Urn
+      probability: 1
+    - name: Holy
+      probability: 1
+    - name: Alt
+      probability: 1
+    - name: Win
+      probability: 1
+    - name: Mordd
+      probability: 1
+    - name: Gwan
+      probability: 1
+- name: hyphens
+  parts:
+  - names:
+    - name: '-Yr-'
+      probability: 10
+    - name: '-Beag-'
+      probability: 1
+    - name: sodra-
+      probability: 2
+    - name: norra-
+      probability: 2
+    - name: ostra-
+      probability: 2
+    - name: vaster-
+      probability: 2
+  - names:
+    - name: '@capitals'
+      probability: 1
