@@ -1,7 +1,7 @@
-description: A new TrueGRF project
+description: A set consisting of randomly generated Celtic inspired town names. Made using TrueGRF.
 grfid: f27cba84
 license: CC-BY-4.0
-name: testownames
+name: Unholyphish's puts Names Into Towns
 type: townname
 url: https://github.com/StarRaid/testownames
 version: 7
