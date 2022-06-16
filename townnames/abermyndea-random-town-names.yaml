@@ -1,6 +1,36 @@
-available: false
+available: true
 id: 1
-mainset: []
+mainset:
+- names:
+  - name: '@prefix'
+    probability: 1
+- names:
+  - name: '@hyphen'
+    probability: 1
+- names:
+  - name: '@suffix'
+    probability: 1
 name: Abermyndea Random Town Names
 source: null
-subsets: []
+subsets:
+- name: prefix
+  parts:
+  - names:
+    - name: ad
+      probability: 1
+    - name: ve
+      probability: 1
+- name: suffix
+  parts:
+  - names:
+    - name: sby
+      probability: 1
+    - name: wen
+      probability: 1
+- name: hyphen
+  parts:
+  - names:
+    - name: '-yr-'
+      probability: 1
+    - name: '-y-'
+      probability: 1
