@@ -10,7 +10,7 @@ mainset:
 - names:
   - name: '@suffix'
     probability: 1
-name: Abermyndea Random Town Names
+name: Celtic Inspired Town Names [UNIT]
 source: null
 subsets:
 - name: prefix

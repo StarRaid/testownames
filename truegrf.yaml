@@ -1,7 +1,7 @@
 description: A set consisting of randomly generated Celtic inspired town names. Made using TrueGRF.
 grfid: f27cba84
 license: CC-BY-4.0
-name: Unholyphish's puts Names Into Towns
+name: Unholyphish puts Names Into Towns [UNIT]
 type: townname
 url: https://github.com/StarRaid/testownames
 version: 7
