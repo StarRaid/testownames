@@ -52,7 +52,65 @@ mainset:
     probability: 1
   - name: Afon
     probability: 1
-  - name: Ynys-Yr-
+  - name: Ynys-Yr
+    probability: 1
+  - name: Cran
+    probability: 1
+  - name: Ynys
+    probability: 1
+  - name: Cran-Yr
+    probability: 1
+  - name: Eil-Yr
+    probability: 1
+  - name: Aar-Yr
+    probability: 1
+  - name: Urn
+    probability: 1
+  - name: Rach-Yr
+    probability: 1
+  - name: Llan-Yr
+    probability: 1
+  - name: Gwyn-Yr
+    probability: 1
+  - name: Mordd
+    probability: 1
+  - name: Win
+    probability: 1
+  - name: Holy
+    probability: 1
+  - name: Guild
+    probability: 1
+  - name: Alt
+    probability: 1
+  - name: Sodra-
+    probability: 1
+  - name: Norra-
+    probability: 1
+  - name: Ostra-
+    probability: 1
+  - name: Vaster-
+    probability: 1
+  - name: Stad
+    probability: 1
+  - name: Liten
+    probability: 1
+  - name: Treff
+    probability: 1
+  - name: Baile
+    probability: 1
+  - name: Treff-Yr
+    probability: 1
+  - name: Stad-Yr
+    probability: 1
+  - name: Gaeaf
+    probability: 1
+  - name: Haf
+    probability: 1
+  - name: Hyd
+    probability: 1
+  - name: Gwan
+    probability: 1
+  - name: Maja
     probability: 1
 - names:
   - name: don
@@ -85,6 +143,14 @@ mainset:
     probability: 1
   - name: abhainn
     probability: 2
+  - name: awe
+    probability: 1
+  - name: wyn
+    probability: 1
+  - name: ref
+    probability: 1
+  - name: '-Beag-'
+    probability: 1
 - names:
   - name: by
     probability: 4
@@ -114,6 +180,8 @@ mainset:
     probability: 1
   - name: kyr
     probability: 1
+  - name: sor
+    probability: 1
 - names:
   - name: da
     probability: 1
@@ -128,6 +196,10 @@ mainset:
   - name: ka
     probability: 1
   - name: slätt
+    probability: 1
+  - name: sea
+    probability: 1
+  - name: ham
     probability: 1
 name: Test town names
 source: null
