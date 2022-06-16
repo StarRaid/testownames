@@ -2,7 +2,7 @@ available: true
 id: 0
 mainset:
 - names:
-  - name: '@capitals'
+  - name: '@prefix'
     probability: 1
 - names:
   - name: don
@@ -89,7 +89,7 @@ mainset:
     probability: 1
   - name: ka
     probability: 1
-  - name: sl‰tt
+  - name: sl√§tt
     probability: 1
   - name: sea
     probability: 1
@@ -98,7 +98,7 @@ mainset:
 name: Test town names
 source: null
 subsets:
-- name: capitals
+- name: prefix
   parts:
   - names:
     - name: Hayle
@@ -154,8 +154,6 @@ subsets:
     - name: Ynys
       probability: 1
     - name: Cran
-      probability: 1
-    - name: Ynys
       probability: 1
     - name: Urn
       probability: 1
@@ -213,5 +211,5 @@ subsets:
     - name: vaster-
       probability: 2
   - names:
-    - name: '@capitals'
+    - name: '@prefix'
       probability: 1
