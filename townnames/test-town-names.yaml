@@ -36,6 +36,14 @@ mainset:
     probability: 1
   - name: Tayp
     probability: 1
+  - name: Eil
+    probability: 1
+  - name: Ad
+    probability: 1
+  - name: Hjor
+    probability: 1
+  - name: Dal
+    probability: 1
 - names:
   - name: don
     probability: 1
@@ -61,6 +69,12 @@ mainset:
     probability: 1
   - name: es
     probability: 1
+  - name: idh
+    probability: 1
+  - name: i
+    probability: 1
+  - name: dis
+    probability: 1
 - names:
   - name: by
     probability: 1
@@ -73,7 +87,7 @@ mainset:
   - name: phin
     probability: 1
   - name: ''
-    probability: 2
+    probability: 3
   - name: sby
     probability: 1
   - name: tru
@@ -83,6 +97,8 @@ mainset:
     probability: 1
   - name: ''
     probability: 5
+  - name: ut
+    probability: 1
 name: Test town names
 source: null
 subsets: []
