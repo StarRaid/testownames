@@ -116,7 +116,9 @@ subsets:
       probability: 5
     - name: Ply
       probability: 1
-    - name: Lock
+    - name: Loch
+      probability: 5
+    - name: Car
       probability: 5
 - name: suffix
   parts:
@@ -143,9 +145,17 @@ subsets:
       probability: 5
     - name: is
       probability: 5
-    - name: dock
+    - name: doch
       probability: 5
     - name: en
+      probability: 5
+    - name: aen
+      probability: 5
+    - name: aern
+      probability: 5
+    - name: bis
+      probability: 5
+    - name: diff
       probability: 5
   - names:
     - name: by
@@ -190,6 +200,8 @@ subsets:
       probability: 5
     - name: ' '
       probability: 50
+    - name: bay
+      probability: 5
 - name: hyphen
   parts:
   - names:
