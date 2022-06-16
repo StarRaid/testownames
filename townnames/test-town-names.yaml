@@ -44,6 +44,8 @@ mainset:
     probability: 1
   - name: Dal
     probability: 1
+  - name: Gol
+    probability: 1
 - names:
   - name: don
     probability: 1
@@ -75,6 +77,8 @@ mainset:
     probability: 1
   - name: dis
     probability: 1
+  - name: dul
+    probability: 1
 - names:
   - name: by
     probability: 1
@@ -92,12 +96,24 @@ mainset:
     probability: 1
   - name: tru
     probability: 1
+  - name: bryn
+    probability: 1
+  - name: tref
+    probability: 1
+  - name: craig
+    probability: 1
+  - name: egl
+    probability: 1
+  - name: gir
+    probability: 1
 - names:
   - name: da
     probability: 1
   - name: ''
     probability: 5
   - name: ut
+    probability: 1
+  - name: wys
     probability: 1
 name: Test town names
 source: null
