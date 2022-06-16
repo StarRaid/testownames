@@ -46,23 +46,27 @@ mainset:
     probability: 1
   - name: Gol
     probability: 1
+  - name: Hamn
+    probability: 1
+  - name: Pordd
+    probability: 1
+  - name: Afon
+    probability: 1
+  - name: Ynys-Yr-
+    probability: 1
 - names:
   - name: don
     probability: 1
   - name: ard
     probability: 2
-  - name: '-Yr'
-    probability: 2
-  - name: '-Y'
-    probability: 2
   - name: ol
     probability: 1
   - name: ''
-    probability: 2
+    probability: 5
   - name: aibh
     probability: 1
   - name: saidh
-    probability: 1
+    probability: 3
   - name: 'on'
     probability: 1
   - name: fara
@@ -70,7 +74,7 @@ mainset:
   - name: edd
     probability: 1
   - name: es
-    probability: 1
+    probability: 3
   - name: idh
     probability: 1
   - name: i
@@ -79,9 +83,11 @@ mainset:
     probability: 1
   - name: dul
     probability: 1
+  - name: abhainn
+    probability: 2
 - names:
   - name: by
-    probability: 1
+    probability: 4
   - name: ffan
     probability: 1
   - name: enny
@@ -91,9 +97,9 @@ mainset:
   - name: phin
     probability: 1
   - name: ''
-    probability: 3
+    probability: 10
   - name: sby
-    probability: 1
+    probability: 4
   - name: tru
     probability: 1
   - name: bryn
@@ -106,14 +112,22 @@ mainset:
     probability: 1
   - name: gir
     probability: 1
+  - name: kyr
+    probability: 1
 - names:
   - name: da
     probability: 1
   - name: ''
-    probability: 5
+    probability: 15
   - name: ut
     probability: 1
   - name: wys
+    probability: 1
+  - name: lais
+    probability: 1
+  - name: ka
+    probability: 1
+  - name: slätt
     probability: 1
 name: Test town names
 source: null
