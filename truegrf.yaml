@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f27cba84
+license: CC-BY-4.0
+name: testownames
 type: townname
+url: https://github.com/StarRaid/testownames
 version: 6
