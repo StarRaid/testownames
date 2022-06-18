@@ -120,6 +120,20 @@ subsets:
       probability: 5
     - name: Car
       probability: 5
+    - name: Glen
+      probability: 1
+    - name: Arn
+      probability: 1
+    - name: Stir
+      probability: 1
+    - name: Lin
+      probability: 1
+    - name: Brig
+      probability: 1
+    - name: Dal
+      probability: 1
+    - name: Cal
+      probability: 1
 - name: suffix
   parts:
   - names:
