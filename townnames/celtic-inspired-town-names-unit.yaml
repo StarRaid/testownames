@@ -21,11 +21,11 @@ subsets:
     - name: Llan
       probability: 1
     - name: Aber
-      probability: 8
+      probability: 1
     - name: Ha
       probability: 1
     - name: Ayr
-      probability: 5
+      probability: 1
     - name: Uaine
       probability: 1
     - name: Dearg
@@ -33,13 +33,13 @@ subsets:
     - name: De
       probability: 1
     - name: God
-      probability: 3
+      probability: 1
     - name: Rach
       probability: 1
     - name: Gean
       probability: 1
     - name: Ing
-      probability: 4
+      probability: 1
     - name: Inge
       probability: 1
     - name: Aar
@@ -65,7 +65,7 @@ subsets:
     - name: Pordd
       probability: 1
     - name: Afon
-      probability: 8
+      probability: 1
     - name: Ynys
       probability: 1
     - name: Cran
@@ -77,7 +77,7 @@ subsets:
     - name: Win
       probability: 1
     - name: Holy
-      probability: 4
+      probability: 1
     - name: Guild
       probability: 1
     - name: Alt
@@ -87,7 +87,7 @@ subsets:
     - name: Liten
       probability: 1
     - name: Treff
-      probability: 4
+      probability: 1
     - name: Baile
       probability: 1
     - name: Gaeaf
@@ -103,7 +103,7 @@ subsets:
     - name: Grinn
       probability: 1
     - name: Grim
-      probability: 3
+      probability: 1
     - name: Hurn
       probability: 1
     - name: Tiver
@@ -120,27 +120,13 @@ subsets:
       probability: 5
     - name: Car
       probability: 5
-    - name: Glen
-      probability: 1
-    - name: Arn
-      probability: 1
-    - name: Stir
-      probability: 1
-    - name: Lin
-      probability: 1
-    - name: Brig
-      probability: 1
-    - name: Dal
-      probability: 5
-    - name: Cal
-      probability: 1
 - name: suffix
   parts:
   - names:
     - name: da
       probability: 1
     - name: ut
-      probability: 3
+      probability: 1
     - name: wys
       probability: 5
     - name: lais
@@ -148,7 +134,7 @@ subsets:
     - name: ka
       probability: 1
     - name: slatt
-      probability: 2
+      probability: 1
     - name: sea
       probability: 1
     - name: ham
@@ -156,7 +142,7 @@ subsets:
     - name: ur
       probability: 5
     - name: uro
-      probability: 3
+      probability: 5
     - name: is
       probability: 5
     - name: doch
@@ -171,18 +157,6 @@ subsets:
       probability: 5
     - name: diff
       probability: 5
-    - name: cyff
-      probability: 2
-    - name: ling
-      probability: 1
-    - name: third
-      probability: 1
-    - name: gunnock
-      probability: 1
-    - name: dar
-      probability: 1
-    - name: rho
-      probability: 10
   - names:
     - name: by
       probability: 20
@@ -222,21 +196,17 @@ subsets:
       probability: 5
     - name: mudd
       probability: 5
+    - name: yar
+      probability: 5
     - name: ' '
       probability: 50
     - name: bay
       probability: 5
-    - name: ordd
-      probability: 4
-    - name: myre
-      probability: 4
-    - name: ross
-      probability: 1
 - name: hyphen
   parts:
   - names:
     - name: ''
-      probability: 57
+      probability: 67
     - name: '-yr-'
       probability: 10
     - name: '-beag-'
@@ -252,6 +222,4 @@ subsets:
     - name: vaster-
       probability: 2
     - name: ' '
-      probability: 10
-    - name: '-'
       probability: 20
