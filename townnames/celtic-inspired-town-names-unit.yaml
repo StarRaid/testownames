@@ -120,6 +120,25 @@ subsets:
       probability: 5
     - name: Car
       probability: 5
+  - names:
+    - name: ''
+      probability: 20
+    - name: don
+      probability: 1
+    - name: fon
+      probability: 1
+    - name: muil
+      probability: 1
+    - name: eann
+      probability: 1
+    - name: kvarn
+      probability: 1
+    - name: ger
+      probability: 1
+    - name: skap
+      probability: 1
+    - name: clwt
+      probability: 1
 - name: suffix
   parts:
   - names:
