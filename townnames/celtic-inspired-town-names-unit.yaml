@@ -114,8 +114,6 @@ subsets:
       probability: 1
     - name: 'St. '
       probability: 1
-    - name: Ply
-      probability: 1
     - name: Loch
       probability: 1
     - name: Car
@@ -133,6 +131,22 @@ subsets:
     - name: Dal
       probability: 1
     - name: Cal
+      probability: 1
+    - name: Kil
+      probability: 1
+    - name: Stron
+      probability: 1
+    - name: Goir
+      probability: 1
+    - name: Chla
+      probability: 1
+    - name: Kin
+      probability: 1
+    - name: Caern
+      probability: 1
+    - name: Cran
+      probability: 1
+    - name: Craen
       probability: 1
 - name: suffix
   parts:
@@ -179,6 +193,30 @@ subsets:
       probability: 1
     - name: ''
       probability: 10
+    - name: ding
+      probability: 1
+    - name: linn
+      probability: 1
+    - name: ben
+      probability: 1
+    - name: ar
+      probability: 1
+    - name: druim
+      probability: 1
+    - name: mar
+      probability: 1
+    - name: chreg
+      probability: 1
+    - name: fern
+      probability: 1
+    - name: fin
+      probability: 1
+    - name: mo
+      probability: 1
+    - name: mal
+      probability: 1
+    - name: leidh
+      probability: 1
   - names:
     - name: by
       probability: 1
@@ -221,7 +259,7 @@ subsets:
     - name: yar
       probability: 1
     - name: ' '
-      probability: 10
+      probability: 2
     - name: bay
       probability: 1
     - name: ordd
@@ -230,26 +268,50 @@ subsets:
       probability: 1
     - name: ross
       probability: 1
+    - name: wall
+      probability: 2
+    - name: arbin
+      probability: 1
+    - name: noch
+      probability: 1
+    - name: gan
+      probability: 1
+    - name: locheil
+      probability: 1
+    - name: ail
+      probability: 1
+    - name: cairn
+      probability: 1
+    - name: idh
+      probability: 1
+    - name: rar
+      probability: 1
+    - name: laig
+      probability: 1
 - name: hyphen
   parts:
   - names:
     - name: ''
-      probability: 47
+      probability: 45
     - name: '-yr-'
-      probability: 10
+      probability: 4
     - name: '-beag-'
-      probability: 5
+      probability: 4
     - name: '-y-'
-      probability: 10
+      probability: 4
     - name: sodra-
-      probability: 2
+      probability: 4
     - name: norra-
-      probability: 2
+      probability: 4
     - name: ostra-
-      probability: 2
-    - name: vaster-
-      probability: 2
+      probability: 4
+    - name: aster-
+      probability: 4
     - name: '-'
-      probability: 20
+      probability: 4
     - name: ' '
       probability: 20
+    - name: '-o-'
+      probability: 4
+    - name: '-o'
+      probability: 4
