@@ -111,15 +111,15 @@ subsets:
     - name: Tor
       probability: 1
     - name: Sal
-      probability: 5
+      probability: 1
     - name: 'St. '
-      probability: 5
+      probability: 1
     - name: Ply
       probability: 1
     - name: Loch
-      probability: 5
+      probability: 1
     - name: Car
-      probability: 5
+      probability: 1
     - name: Glen
       probability: 1
     - name: Arn
@@ -142,7 +142,7 @@ subsets:
     - name: ut
       probability: 1
     - name: wys
-      probability: 5
+      probability: 1
     - name: lais
       probability: 1
     - name: ka
@@ -154,81 +154,87 @@ subsets:
     - name: ham
       probability: 1
     - name: ur
-      probability: 5
-    - name: uro
-      probability: 5
+      probability: 1
+    - name: rho
+      probability: 1
     - name: is
-      probability: 5
+      probability: 1
     - name: doch
-      probability: 5
+      probability: 1
     - name: en
-      probability: 5
+      probability: 1
     - name: aen
-      probability: 5
+      probability: 1
     - name: aern
-      probability: 5
+      probability: 1
     - name: bis
-      probability: 5
+      probability: 1
     - name: diff
-      probability: 5
+      probability: 1
     - name: cyff
-      probability: 2
+      probability: 1
+    - name: gunnock
+      probability: 1
+    - name: dar
+      probability: 1
+    - name: ''
+      probability: 10
   - names:
     - name: by
-      probability: 20
+      probability: 1
     - name: ffan
-      probability: 6
+      probability: 1
     - name: enny
-      probability: 7
+      probability: 1
     - name: ddon
-      probability: 3
+      probability: 1
     - name: phin
-      probability: 15
+      probability: 1
     - name: sby
-      probability: 20
+      probability: 1
     - name: tru
-      probability: 4
+      probability: 1
     - name: bryn
       probability: 1
     - name: tref
-      probability: 9
+      probability: 1
     - name: craig
-      probability: 6
+      probability: 1
     - name: egl
       probability: 1
     - name: gir
       probability: 1
     - name: kyr
-      probability: 4
+      probability: 1
     - name: sor
       probability: 2
     - name: ness
-      probability: 15
+      probability: 1
     - name: zance
-      probability: 5
+      probability: 1
     - name: erth
-      probability: 5
+      probability: 1
     - name: ry
-      probability: 5
+      probability: 1
     - name: mudd
-      probability: 5
+      probability: 1
     - name: yar
-      probability: 5
+      probability: 1
     - name: ' '
-      probability: 50
+      probability: 10
     - name: bay
-      probability: 5
+      probability: 1
     - name: ordd
-      probability: 2
+      probability: 1
     - name: myre
-      probability: 2
+      probability: 1
     - name: ross
-      probability: 2
+      probability: 1
 - name: hyphen
   parts:
   - names:
     - name: ''
-      probability: 67
+      probability: 47
     - name: '-yr-'
       probability: 10
     - name: '-beag-'
@@ -243,5 +249,7 @@ subsets:
       probability: 2
     - name: vaster-
       probability: 2
+    - name: '-'
+      probability: 20
     - name: ' '
       probability: 20
