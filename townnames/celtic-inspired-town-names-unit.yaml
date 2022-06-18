@@ -112,8 +112,6 @@ subsets:
       probability: 1
     - name: Sal
       probability: 1
-    - name: 'St. '
-      probability: 1
     - name: Loch
       probability: 1
     - name: Car
@@ -314,4 +312,6 @@ subsets:
     - name: '-o-'
       probability: 4
     - name: '-o'
+      probability: 4
+    - name: '-saint-'
       probability: 4
