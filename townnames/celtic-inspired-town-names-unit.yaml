@@ -171,6 +171,8 @@ subsets:
       probability: 5
     - name: diff
       probability: 5
+    - name: cyff
+      probability: 2
   - names:
     - name: by
       probability: 20
@@ -216,6 +218,12 @@ subsets:
       probability: 50
     - name: bay
       probability: 5
+    - name: ordd
+      probability: 2
+    - name: myre
+      probability: 2
+    - name: ross
+      probability: 2
 - name: hyphen
   parts:
   - names:
